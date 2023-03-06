@@ -1,0 +1,63 @@
+/* Style for Navbar */
+.navbar {
+    background-color: #9626FF;
+    border: none;
+}
+
+.navbar-b {
+    color: ghostwhite;
+    font-size: 24px;
+}
+
+.navbar-nav>li>a {
+    color: #9626FF;
+    background-color: ghostwhite;
+    font-weight: bold;
+}
+
+
+/* Style for Page Heading */
+.container h1 {
+    font-size: 48px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+p {
+    color: #000000;
+}
+
+h3 {
+
+    color: #000000;
+
+}
+
+
+/* Style for Main Content */
+.section {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.section h3 {
+    font-size: 24px;
+    color: #9626FF;
+}
+
+.section p {
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #9626FF;
+
+}
+
+.item {
+    border: 2px solid #000;
+    background-color: #000000;
+
+}
+* {font-family: Papyrus;
+
+}
